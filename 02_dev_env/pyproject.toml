@@ -1,0 +1,20 @@
+[project]
+name = "dev-env"
+version = "0.1.0"
+description = "W1 现代开发环境练习"
+readme = "README.md"
+authors = [
+    { name = "AlleySM" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.141.1",
+    "uvicorn[standard]>=0.52.4",
+]
+
+[project.scripts]
+dev-env = "dev_env:main"
+
+[build-system]
+requires = ["uv_build>=0.12.10,<0.13.0"]
+build-backend = "uv_build"
