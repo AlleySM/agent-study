@@ -1,0 +1,11 @@
+# Python 虚拟环境 (任意层级都忽略，绝不上传)
+.venv/
+venv/
+# Python 运行缓存
+__pycache__/
+*.pyc
+# 编辑器配置
+.vscode/
+.idea/
+# 密钥/环境变量，永远不要传
+.env
