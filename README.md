@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # agent-study
 AI Agent 开发的半年学习练习库
 
@@ -17,4 +16,3 @@ AI Agent 开发的半年学习练习库
 
 ## 技术栈
 Python / FastAPI / Uvicorn (持续更新)
->>>>>>> cb2a10d0e881a68a633d73530040f0b801111959
