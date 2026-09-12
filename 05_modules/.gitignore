@@ -1,0 +1,5 @@
+# Ignore the UV cache directory
+.uv-cache/
+.env
+.venv/
+__pycache__/
